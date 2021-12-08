@@ -1,0 +1,15 @@
+  =>  Website Name     : Albatross - Consulting Website 
+
+  =>  Created by       : Muskan Bharti
+   
+  =>  Purpose          : College Project
+
+  => Template License : https://htmlcodex.com/license 
+
+  => Template Author  : HTML Codex
+
+
+
+    
+
+    
